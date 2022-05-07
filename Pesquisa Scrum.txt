@@ -8,4 +8,4 @@
 -Scrum Master: O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum. O Scrum Master protege o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.
 -Product Owner: O Product Owner representa os interesses de todos os envolvidos (Stakeholders) define as funcionalidades do produto e prioriza os itens de Product Backlog. O Product Owner tem as seguintes responsabilidades: Definir as funcionalidades do produto (Backlog do Produto);
 
-Samuel Maia
+Samuel Maia Teste
